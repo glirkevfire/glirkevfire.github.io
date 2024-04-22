@@ -15,3 +15,4 @@ hero:
       link: /api-examples
 ---
 
+This is a test for writting a single entry.
