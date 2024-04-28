@@ -4,8 +4,17 @@ layout: home
 
 hero:
   name: "Kevfire Development"
-  text: "A site for testing and learning."
-  tagline: A site for testing
+  actions:
+    - theme: brand
+      text: Development
+      link: /Development/development
+    - theme: brand
+      text: Games
+      link: /Games/games
 ---
 
-Hello World!
+This site outlines the projects for the Kevfire development team.
+
+To see current development projects, see the [Development page](/Development/development).
+
+To see current game projects, see the [Games page](/Games/games).
